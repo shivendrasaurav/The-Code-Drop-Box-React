@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/The-Code-Drop-Box-React/precache-manifest.29abee6d9987da56008304d13b69a769.js"
+  "/The-Code-Drop-Box-React/precache-manifest.05bd73a6c5fff51ad9dccf8846a5d639.js"
 );
 
 self.addEventListener('message', (event) => {

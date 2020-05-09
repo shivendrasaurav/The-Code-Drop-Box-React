@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41cb0a23045430721e8c67bb44fecc4d",
+    "revision": "16e11cd93caed9ddf04c7bc0922c1ba6",
     "url": "/The-Code-Drop-Box-React/index.html"
   },
   {
-    "revision": "47dad11ed55f50ba4d89",
+    "revision": "6715ffc06654c3e747cb",
     "url": "/The-Code-Drop-Box-React/static/css/main.7674852b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/The-Code-Drop-Box-React/static/js/2.a121e339.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "47dad11ed55f50ba4d89",
-    "url": "/The-Code-Drop-Box-React/static/js/main.050dcb04.chunk.js"
+    "revision": "6715ffc06654c3e747cb",
+    "url": "/The-Code-Drop-Box-React/static/js/main.dedf7327.chunk.js"
   },
   {
     "revision": "d750552003e01543f06c",
