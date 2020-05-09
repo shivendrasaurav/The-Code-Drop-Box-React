@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/The-Code-Drop-Box-React/static/css/main.7674852b.chunk.css",
+    "main.js": "/The-Code-Drop-Box-React/static/js/main.050dcb04.chunk.js",
+    "main.js.map": "/The-Code-Drop-Box-React/static/js/main.050dcb04.chunk.js.map",
+    "runtime-main.js": "/The-Code-Drop-Box-React/static/js/runtime-main.9d4c53f8.js",
+    "runtime-main.js.map": "/The-Code-Drop-Box-React/static/js/runtime-main.9d4c53f8.js.map",
+    "static/js/2.a121e339.chunk.js": "/The-Code-Drop-Box-React/static/js/2.a121e339.chunk.js",
+    "static/js/2.a121e339.chunk.js.map": "/The-Code-Drop-Box-React/static/js/2.a121e339.chunk.js.map",
+    "index.html": "/The-Code-Drop-Box-React/index.html",
+    "precache-manifest.29abee6d9987da56008304d13b69a769.js": "/The-Code-Drop-Box-React/precache-manifest.29abee6d9987da56008304d13b69a769.js",
+    "service-worker.js": "/The-Code-Drop-Box-React/service-worker.js",
+    "static/css/main.7674852b.chunk.css.map": "/The-Code-Drop-Box-React/static/css/main.7674852b.chunk.css.map",
+    "static/js/2.a121e339.chunk.js.LICENSE.txt": "/The-Code-Drop-Box-React/static/js/2.a121e339.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d4c53f8.js",
+    "static/js/2.a121e339.chunk.js",
+    "static/css/main.7674852b.chunk.css",
+    "static/js/main.050dcb04.chunk.js"
+  ]
+}
