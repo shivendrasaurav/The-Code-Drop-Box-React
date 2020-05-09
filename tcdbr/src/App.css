@@ -1,0 +1,67 @@
+body{
+    height: 100vh;
+}
+
+.horizontal{
+    display: flex;
+    width: 100%;
+    height: 260px;
+    overflow-y: hidden;
+}
+.horizontal div{
+    padding: 10px;
+}
+.skeumorphic{
+    border: none;
+    box-shadow: 2px 2px 8px #000, -2px -2px 8px #444;
+}
+a:hover:before{
+    width: 0%;
+}
+.icon_large{
+    width: 100px;
+}
+
+.app_name{
+    display: inline-block;
+    color: #1e1e1e;
+    font-size: 32px;
+}
+.app_desc{
+    color: #2e2e2e;
+    font-size: 22px;
+    text-align: justify;
+}
+.can{
+    display: inline-block;
+    height: 60px;
+    width: 100px;
+}
+
+.frost_container a{
+    color: #fff;
+    text-decoration: none;
+}
+.nav{
+    padding: 10px;
+    font-size: 24px;
+    position: fixed;
+    top: 0px;
+}
+.rot{
+    transform: rotate(90deg);
+}
+.foot{
+    padding: 10px;
+    font-size: 24px;
+    bottom: 0px;
+}
+.ig{
+    background: linear-gradient(45deg, #de1738, purple); color: #fff;
+}
+.yt{
+    background: red; color: #fff;
+}
+.gh{
+    background: #deddee;
+}
